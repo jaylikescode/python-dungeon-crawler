@@ -1,0 +1,14 @@
+"""
+Python Dungeon Crawler - Requirements
+
+This project requires only Python 3.8+ (no external dependencies).
+All terminal rendering uses ANSI color codes and Unicode characters.
+"""
+
+# No external requirements needed!
+# This project uses only Python standard library:
+# - os (terminal operations)
+# - sys (system operations)
+# - time (animations)
+# - random (dungeon/enemy generation)
+# - typing (type hints)
